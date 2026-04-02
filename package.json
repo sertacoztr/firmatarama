@@ -1,0 +1,9 @@
+{
+  "name": "firma-zenginlestirici",
+  "version": "1.0.0",
+  "description": "FIX Danışmanlık - Firma Veri Zenginleştirici",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
